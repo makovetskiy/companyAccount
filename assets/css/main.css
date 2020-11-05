@@ -1,0 +1,9 @@
+.dashboard {
+  background-color: #fafafa;
+  min-height: 100vh;
+}
+
+.b-sidebar .sidebar-content {
+  background-color: #212120;
+  min-height: 100vh;
+}
